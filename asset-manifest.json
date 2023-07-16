@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sasha-rosser/static/css/main.74f0870b.css",
+    "main.js": "/sasha-rosser/static/js/main.3b796b05.js",
+    "static/media/sasha2.webp": "/sasha-rosser/static/media/sasha2.ab419e5d3cc2cfd94d81.webp",
+    "static/media/exandroid.webp": "/sasha-rosser/static/media/exandroid.da8ddcc4287b6b49e211.webp",
+    "static/media/sasha1.jpg": "/sasha-rosser/static/media/sasha1.700d6a1c3d6cab87ae0a.jpg",
+    "static/media/instagram.webp": "/sasha-rosser/static/media/instagram.75297e080a86db148755.webp",
+    "static/media/twitter.webp": "/sasha-rosser/static/media/twitter.b602b06fc43ac7587988.webp",
+    "index.html": "/sasha-rosser/index.html",
+    "main.74f0870b.css.map": "/sasha-rosser/static/css/main.74f0870b.css.map",
+    "main.3b796b05.js.map": "/sasha-rosser/static/js/main.3b796b05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f0870b.css",
+    "static/js/main.3b796b05.js"
+  ]
+}
